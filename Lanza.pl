@@ -1,9 +1,9 @@
 #**************************************************************
-Pontificia Universidad Javeriana
-Nombre: Jose David Ontiveros
-Fecha: 05/05/2025
-Sistemas Operativos
-Taller de Evaluación de Rendimiento
+#Pontificia Universidad Javeriana
+#Nombre: Jose David Ontiveros
+#Fecha: 05/05/2025
+#Sistemas Operativos
+#Taller de Evaluación de Rendimiento
 #****************************************************************/
 
 #!/usr/bin/perl
